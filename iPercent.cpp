@@ -1,6 +1,7 @@
 #include<iostream.h>
 void main()
 {
+  cout<<"this program calculates percentage";
   int mk,pi;
   cout<<"\n Enter your marks out of 50 ";
   cin>>mk;
