@@ -7,4 +7,5 @@ void main()
   cin>>mk;
   pi=(mk*100)/50;
   cout<<"\n The percentage is "<<pi;
+  cout<< "Edited in notepad using desktop application :D";
 }
